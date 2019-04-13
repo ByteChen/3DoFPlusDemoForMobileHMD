@@ -1,0 +1,1092 @@
+{
+    "Content_name": "MultiViewVideo",
+    "BoundingBox_center": [
+        0,
+        0,
+        0
+    ],
+    "ViewPointNumbers": 66,
+    "InitURLSelectMediaFormat": "/storage/emulated/0/Download/6DOF/pano_060.H265",
+    "cameras": [
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.77
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_001.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.74
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_002.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.71
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_003.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.68
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_004.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.65
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_005.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.62
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_006.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.59
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_007.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.56
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_008.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.53
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_009.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.5
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_010.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.47
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_011.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.44
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_012.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.41
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_013.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.38
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_014.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.35
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_015.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.32
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_016.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.29
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_017.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.26
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_018.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.23
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_019.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.2
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_020.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.17
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_021.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.14
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_022.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.11
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_023.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.08
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_024.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.05
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_025.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -1.02
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_026.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.99
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_027.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.96
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_028.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.93
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_029.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.9
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_030.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.87
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_031.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.84
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_032.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.81
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_033.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.78
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_034.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.75
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_035.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.72
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_036.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.69
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_037.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.66
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_038.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.63
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_039.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.6
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_040.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.57
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_041.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.54
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_042.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.51
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_043.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.48
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_044.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.45
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_045.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.42
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_046.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.39
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_047.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.36
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_048.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.33
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_049.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.3
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_050.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.27
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_051.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.24
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_052.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.21
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_053.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.18
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_054.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.15
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_055.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.12
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_056.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.09
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_057.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.06
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_058.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                -0.03
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_059.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_060.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.03
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_061.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.06
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_062.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.09
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_063.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.12
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_064.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.15
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_065.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.18
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_066.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.21
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_067.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.24
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_068.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.27
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_069.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.3
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_070.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.33
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_071.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.36
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_072.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.39
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_073.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.42
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_074.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.45
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_075.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.48
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_076.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.51
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_077.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.54
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_078.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.57
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_079.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.6
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_080.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.63
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_081.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.66
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_082.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.69
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_083.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.72
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_084.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.75
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_085.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.78
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_086.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.81
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_087.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.84
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_088.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.87
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_089.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.9
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_090.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.93
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_091.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.96
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_092.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.99
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_093.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.02
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_094.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.05
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_095.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.08
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_096.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.11
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_097.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.14
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_098.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.17
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_099.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.2
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_100.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.23
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_101.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.26
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_102.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.29
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_103.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.32
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_104.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.35
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_105.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.38
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_106.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.41
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_107.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.44
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_108.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.47
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_109.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.5
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_110.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.53
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_111.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.56
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_112.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.59
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_113.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.62
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_114.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.65
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_115.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.68
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_116.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.71
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_117.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.74
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_118.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.77
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_119.H265"
+        },
+        {
+            "ViewpointID": 0,
+            "Position": [
+                0.0,
+                0.0,
+                1.8
+            ],
+            "Uri": "/storage/emulated/0/Download/6DOF/pano_120.H265"
+        }
+    ]
+}

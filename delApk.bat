@@ -1,0 +1,1 @@
+del pico.apk
